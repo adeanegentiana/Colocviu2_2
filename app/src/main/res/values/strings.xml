@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">Colocviu2_2</string>
+    <string name="server">SERVER</string>
+    <string name="server_port">Port</string>
+    <string name="connect">CONNECT</string>
+    <string name="client">CLIENT</string>
+    <string name="client_address">Address</string>
+    <string name="client_port">Port</string>
+    <string name="value">Value</string>
+    <string name="get_value">GET VALUE</string>
 </resources>
